@@ -1,0 +1,171 @@
+TREE
+
+    <img src="tree20.jpg"  >
+    Tree 20, Oil on Canvas, 36 x 36 inches, 2018
+ 
+    <img src="tree19.jpg"  >
+    Tree 19, Oil on Canvas, 48 x 36 inches, 2018
+
+    <img src="tree17.jpg"  >
+    Tree 17, Oil on Canvas, 48 x 48 inches, 2017
+ 
+    <img src="tree16.jpg"  >
+    Tree 16, Oil on Canvas, 36 x 48 inches, 2017
+
+    <img src="tree15.jpg"  >
+    Tree 15, Oil on Canvas, 36 x 48 inches, 2017
+
+    <img src="lake_Chelan.jpg">
+    Lake Chelan, Oil on Canvas, 48 x 30 inches, 2016
+
+    <img src="Calm_after_the_storm.jpg">
+    Calm after the storm, Oil on Canvas, 48 x 36 inches, 2016
+
+    <img src="tree14.jpg">
+    Tree 14, Oil on Canvas, 48 x 36 inches, 2016
+
+    <img src="tree13.jpg">
+    Tree 13, Oil on Canvas, 36 x 24 inches, 2016
+
+    <img src="tree12.jpg">
+    Tree 12 2015, Oil on Canvas, 30 x 40 inches, 2015
+  
+    <img src="tree11.jpg">
+    Tree 11 2015, Oil on Canvas, 16 x 20 inches, 2015
+  
+    <img src="tree10.jpg">
+    Tree 10 2015, Oil on Canvas, 24 x 30 inches, 2015
+  
+    <img src="tree09.jpg" >
+    Tree 9 2015, Watercolor, 30 x 44 inches, 2015
+  
+    <img src="tree08.jpg" >
+    Tree 8 2015, Watercolor, 30 x 44 inches, 2015
+  
+    <img src="tree07.jpg" >
+    Tree 7 2015, Watercolor, 30 x 44 inches, 2015
+  
+    <img src="tree06.jpg" >
+    Tree 6 2015, Watercolor, 30 x 44 inches, 2015
+
+    <img src="tree05.jpg" >
+    A tree - five, Oil on Canvas, 28 x 22 inches, 2014
+  
+     <img src="tree04.jpg" >
+    A tree - four, Oil on Canvas, 24 x 30 inches, 2014
+  
+    <img src="tree03.jpg" >
+    A tree - three, Oil on Canvas, 30 x 40 inches, 2014
+  
+    <img src="tree02.jpg" >
+    A tree - two, Oil on Canvas, 24 x 24 inches, 2014
+  
+    <img src="tree01.jpg" >
+    A tree - one, Oil on Canvas, 48 x 48 inches, 2014
+   
+    <img src="raysOftheSun2012.jpg" >
+    Rays of the sun, Oil on Canvas, 24 x 20 inches, 2012
+  
+  <img src="summer2012.jpg" >
+    Ray of the sun, Oil on Canvas, 16 x 20 inches, 2012
+  
+<img src="summer01.jpg" >
+<img src="summer02.jpg"><img src="summer03.jpg">
+<img src="summer04.jpg"><img src="summer05.jpg">
+
+<img src="baretreeW.jpg">
+<img src="baretreeS.jpg" >
+<img src="baretree.jpg" >
+
+ 
+CREATURE
+
+    <img src="Goldfish1.jpg" >
+    Gold fish, Oil on Canvas, 30 x 40 inches, 2019
+  
+   <img src="GoldFish2.jpg" >
+    Gold fish, oil on Canvas, 24 x 20 inches, 2019
+
+    <img src="roots.jpg"  >
+    Roots, Oil on Canvas, 24 x 20 inches, 2017
+
+    <img src="map.jpg"  >
+    Map, Oil on Canvas, 40 x 30 inches, 2017
+
+    <img src="dryRiver.jpg"  >
+    Dry River, Oil on Canvas, 40 x 30 inches, 2017
+
+NATURE
+
+    <img src="hens_And_Chicks.jpg">
+    Hens and Chicks, Oil on Canvas, 40 x 30 inches, 2016
+
+    <img src="End_of_garden.jpg">
+    End of the garden, Oil on Canvas, 48 x 36 inches, 2016
+
+    <img src="Bloom_in_rock cracks.jpg">
+    Bloom in Rock cracks, Oil on Canvas, 48 x 36 inches, 2016
+
+  <img src="autumn2016.jpg" >
+    Autumn, Oil on Canvas, 24 x 24 inches, 2016
+
+    <img src="grape_2014.jpg" >
+    Grape 2014, Oil on Canvas, 24 x 48 inches, 2014
+    
+    <img src="thistle.jpg" >
+    Thistle, Oil on Canvas, 30 x 24 inches, 2014
+    
+    <img src="bird1.jpg" >
+    Blackberries - a Bird, Oil on Canvas, 30 x 24 inches, 2013
+  
+    <img src="colorful.jpg" >
+    blackberries - colorful, Oil on Canvas, 24 x 24 inches, 2013
+  
+    <img src="lily2013.jpg" >
+    Lily of the Nile, Oil on Canvas, 24 x 24 inches, 2013
+  
+    <img src="olympicNationalPark.jpg" >
+    Olympic National Park, Oil on Canvas, 20 x 30 inches, 2013
+  
+    <img src="dusk.jpg" >
+    Dusk, Oil on Canvas, 24 x 24 inches, 2013
+  
+    <img src="blackberry.jpg" >
+    Blackberry, Oil on Canvas, 24 x 24 inches, 2013
+  
+    <img src="autumn01.jpg" >
+    Autumn, Oil on Canvas, 20 x 30 inches, 2012
+  
+    <img src="birch_wood.jpg" >
+    Birch wood, Oil on Canvas, 20 x 24 inches, 2012
+  
+    <img src="wintertree1.jpg" >
+    January 2012 in Bellevue, Oil on Canvas, 20 x 30 inches, 2012
+  
+  <img src="wintertree2.jpg" >
+    January 2012 in Bellevue, Oil on Canvas, 11 x 14 inches, 2012
+  
+  <img src="wintertree3.jpg" >
+    January 2012 in Bellevue, Oil on Canvas, 18 x 24 inches, 2012
+  
+  <img src="wintertree4.jpg" >
+    To be continue, Oil on Canvas, 24 x 18 inches, 2012
+  
+  <img src="snowFlower.jpg" >
+    Snow Flowers, Oil on Canvas, 18 x 24 inches, 2012
+  
+JOURNEYS
+
+    <img src="KangHwaIsland.jpg" >
+    Kanghwa Island, Oil on Canvas, 30 x 40 inches, 2018
+  
+   <img src="HighSchool.jpg" >
+    Highschool Friends, oil on Canvas, 30 x 40 inches, 2018
+
+    <img src="seattle41.jpg" >
+    Seattle, Oil on Canvas, 12 x 24 inches, 2014
+  
+   <img src="christmas.jpg" >
+    Merry Christmas, Oil on Canvas, 20 x 30 inches, 2014
+  
+

@@ -1,0 +1,67 @@
+.icon-harmonyofcolor {
+  width: 20px;
+  padding-bottom: 7px;
+}
+
+.icon-harmonyofcolor:hover {
+  content: url('rainbowicon_hover.png');
+  width: 20px;
+  transition: .5s ease;
+}
+
+.artist-name{
+  text-align: center;
+  font-size: 2.3rem;
+  padding: 10px;
+}
+
+.artist-des{
+  font-size: 1.3rem;
+}
+
+.event-name{
+  display: block;
+}
+
+.event-date{
+  display: block;
+}
+.event-location{
+  display: block;
+}
+
+.site-sub-title{
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}
+
+#sitetitle{
+  color: #2550D9;
+  font-size: 2.3rem;
+  font-weight: bold;
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.big-event-calendar{
+  display: none;
+  margin-bottom: 100px;
+}
+.middle-event-calendar{
+  display: none;
+  margin-bottom: 100px;
+}
+/*screen width <1170px*/
+@media screen and (min-width: 1170px) {
+  .big-event-calendar{
+    display: block;
+  }
+}
+
+/*screen 800px< width <1170px*/
+@media screen and (max-width: 1170px) and (min-width: 1000px) {
+  .middle-event-calendar{
+    display: block;
+  }
+
+
+/*screen 500px< width <700px*/
