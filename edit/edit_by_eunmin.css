@@ -1,11 +1,22 @@
 .icon-harmonyofcolor {
-  width: 20px;
+  height: 30px;
   padding-bottom: 7px;
 }
 
 .icon-harmonyofcolor:hover {
-  content: url('rainbowicon_hover.png');
-  width: 20px;
+  content: url('harmonyLogo_hover.jpg');
+  height: 30px;
+  transition: .5s ease;
+}
+
+.icon-kaaw {
+  height: 30px;
+  padding-bottom: 7px;
+}
+
+.icon-kaaw:hover {
+  content: url('kaawLogo_hover.png');
+  height: 30px;
   transition: .5s ease;
 }
 
@@ -23,6 +34,12 @@
   display: block;
 }
 
+.event-categoriy-name {
+  font-size: 2.3rem;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
 .event-date{
   display: block;
 }
@@ -32,16 +49,22 @@
 
 .site-sub-title{
   font-size: 3rem;
-  margin-bottom: 3rem;
+  padding-bottom: 10px;
 }
 
 #sitetitle{
   color: #2550D9;
-  font-size: 2.3rem;
+  font-size: 40px;
   font-weight: bold;
-  font-family: 'Montserrat Subrayada', sans-serif;
+  font-family: 'Wendy One', sans-serif;
 }
 
+.events-blank{
+  display: block;
+  margin-bottom: 40px;
+  font-size:40px;
+  line-height: 40px;
+}
 .big-event-calendar{
   display: none;
   margin-bottom: 100px;
